@@ -1,0 +1,20 @@
+{
+  "name": "crudvanillajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariel3259/CRUDVanillaJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariel3259/CRUDVanillaJs/issues"
+  },
+  "homepage": "https://github.com/ariel3259/CRUDVanillaJs#readme"
+}
